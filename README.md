@@ -1,0 +1,2 @@
+# myself.co
+# myself.in
